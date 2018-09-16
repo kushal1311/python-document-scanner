@@ -1,0 +1,14 @@
+﻿Draw a block diagram and pin diagram of 8035 microprocessors,8086 microprocessors.
+Discuss instrucion cycle (in. fetch/decode/execute and relate use instruction cycle to what
+actions occur for various instruction types using block diagram of a microprocessor.
+Explain basic binary operations, buses. regisrers, ALU Timing controls. flags, addressing
+mode: and inrerrupt comm] mar iruerccunecr with each other.
+
+Perform rlre programs using the various addressing modes and dara rransier iusrrucrions orrire
+8085 microprocessor and mu meir pmgnm on me irainiug boards
+
+Design liming diagrams, analyse the diﬁelem dala mnsfel' modes, 3251 U0 pmessm' and
+peripheral inreriaciug of 8255.
+
+Evaluate rlre real-world comm! pmblems suclr as mfflc uyrr signal. srepper moror computer.
+remperamre canuul. Morcmla 68000 and an Penuum and keyboard 7 segmenr display.
